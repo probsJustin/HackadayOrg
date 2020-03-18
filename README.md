@@ -9,4 +9,4 @@ Organization of hackaday links for the covid-19 response:
 ### Other Projects: 
 [Open Air Project](https://www.projectopenair.org/)
 
-[Article about valves that are 3D printed in Italy. Currently 10 patience are using these] (https://www.beamler.com/3dprinting-coronavirus-flatten-the-curve-covid19/)
+[Article about valves that are 3D printed in Italy. Currently 10 patience are using these](https://www.beamler.com/3dprinting-coronavirus-flatten-the-curve-covid19/)
